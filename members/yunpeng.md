@@ -9,7 +9,7 @@
 * [3 months: 2017 May - July] Sofware Engineering Intern, at [Computing for Voluntary Welfare Organisations](http://www.comp.nus.edu.sg/~vwo/)
 * [4 months: 2017 August - now] Tutor for [CS1101S Programming Methodology](http://comp.nus.edu.sg/~cs1101s/), at [School of Computing](http://comp.nus.edu.sg/), [National University of Singapore](http://www.nus.edu.sg/)
 
-## Accomplishments
+## Projects
 
 * __Lions Befriender Enterprise Management System__: I worked at CVWO as a web developer during the Year 1 summer vacation. My team at CVWO developed the management system for Lions Befrienders (Singapore), which was formed in 1995 and served thousands of senior citizens. This system saves a lot of time for staff at Lions Befrienders to manage their growing enormous clients across the country, while ensuring high service quality.
 
