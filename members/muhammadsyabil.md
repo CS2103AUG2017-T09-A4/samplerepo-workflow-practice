@@ -1,6 +1,7 @@
-# John Doe
+# Muhammad Syabil Bin Mohamed Sazali
 
 ## Education
+[2016-2020] Bachelor Of Computer Engineering
 
 ## Work Experience
 
